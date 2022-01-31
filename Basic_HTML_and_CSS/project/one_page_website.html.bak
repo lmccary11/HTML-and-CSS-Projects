@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+        <title>HOMEHAULERS</title>
+    </head>
+	<body>
+	
+
+		<header>
+		<!-- HOME -->
+    	<div id="home">
+			<div>
+				<div><h2>
+            		<span>HOMEHAULERS</span></h2>
+				  </div>
+			</div>
+		</div>
+		<!-- END HOME -->
+		</header>
+		<!-- GALLERY -->
+		<section>
+			<div id="about">
+				<h1>ABOUT</h1>
+				<div>
+
+					<!-- PHOTO CONTAINER 1 -->
+					<div>
+						<div>
+							<img src="./images/thumb/10.png" alt="Sorry">
+							<div>
+								<h3>HomeHaulers specializes in residential moving in the Greater Cincinatti area.</h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO CONTAINER 1 -->
+
+					<!-- PHOTO CONTAINER 2 -->
+					<div>
+						<div>
+							<img src="./images/thumb/12.png" alt="Sorry">
+							<div>
+								<h3>Peace of mind is our only metric! With our HomeWrap moving method and our Triple Advantage pricing structure, the customer is guaranteed great service at the lowest possible rate.</h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO CONTAINER 2 -->
+
+					<!-- PHOTO CONTAINER 3 -->
+					<div>
+						<div>
+							<img src="./images/thumb/3.png" alt="Sorry">
+							<div>
+								<h3>Use one of our affiliate real estate professionals to find your next dream home!</h3>
+								<p>Sign up to recieve exclusive discounts and updates!</p>
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO CONTAINER 3 -->
+					
+					
+					<!-- Video CONTAINER 1 -->
+					<div>
+						<div>
+							<iframe width="420" height="315"
+							src="https://www.youtube.com/embed/gki2r5dv79g?autoplay=1&mute=1">
+							</iframe>
+							<div>
+								<h3>Use these tips to get ready for your big day!</h3>
+								<p>Sign up to recieve exclusive discounts and updates!</p>
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO CONTAINER 3 -->
+
+					
+
+
+				</div>
+			</div>
+		</section>
+		<!-- END GALLERY -->				
+
+
+					
+
+
+		<!-- RSVP -->
+		<div>			
+			<div id="contact">
+				<h1>Get Your Quote Today!</h1>
+				<div>
+					<h2><span></span>
+						<br />
+					</h2>
+					<p>
+					<div>
+						<form action="" method="post">
+							<input class="quote" type="text" value="First Name">
+							<input class="quote" type="text" value="Last Name">
+							<input class="quote" type="text" value="Email Address">
+							<input class="quote" type="text" value="Phone Number">
+							<div class="form-spacer">
+								<label class="terms">Terms and Conditions</label>
+							</div>
+							<div>
+								<input type="submit" value="Submit">
+							</div>		
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		    
+		</section>
+		<!-- END RSVP -->
+
+		<!-- FOOTER -->
+		<div>
+			ww.homehaulers.move &nbsp;|&nbsp; &copy; 2021
+		</div>
+		<!-- END FOOTER -->
+
+
+	<!-- NAV -->
+    	<div>
+			<div>
+            	<nav>
+                	<a href="home" id="link">HOME</a> | 
+                    <a href="about" id="link">ABOUT</a> | 
+                    <a href="reservation" id="link">RESERVATION</a>
+              	</nav>
+			</div>
+		</div>
+		<!-- END NAV -->
+		<footer>
+  <p>Author: Lawrence McCary</p>
+  <p><a href="mailto:lawrence.mccary511@gmail.com">lawrence.mccary511@gmail.com</a></p>
+</footer>
+
+    </body>
+    <!-- NAV -->
+</html>
+	
