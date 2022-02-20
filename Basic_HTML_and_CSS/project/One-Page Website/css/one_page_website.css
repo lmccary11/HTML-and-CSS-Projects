@@ -1,0 +1,19 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+
+.info {
+    width: 40%;
+    margin: 2% auto;
+    color: #1e63bdb2;
+    font-weight: 600;
+    font-size: 18px;
+    outline: none;    
+    padding: 10px 10px;
+    border: 3px solid #0d3bd3;
+    border-radius: 10px;
+    background: rgb(145, 192, 236);
+    box-shadow:2px 3px 3px 0px rgba(0,0,0,0.3) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
