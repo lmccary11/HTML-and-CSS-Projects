@@ -1,0 +1,46 @@
+img {
+    z-index: -1;
+    border-radius:100px;    
+    filter: grayscale(100%);    
+}
+
+footer {
+    text-align: center;
+    font-weight: bolder;
+}
+
+table {
+    border: 10px dashed red;
+    padding: 10px;
+}
+
+table tr th {
+    padding: 4px;
+    background-color: rgb(113, 84, 141);
+}
+
+table tr td {
+    padding: 4px;
+}
+
+h1 {
+    z-index: 0;
+    font-size: larger;
+    
+}
+
+p {
+    font-size:xx-large;
+    font-weight:1500;
+}
+
+p:hover {
+    color:orange;
+    background-color:black;
+}
+
+head p {
+    @media screen {
+        
+    }
+}
